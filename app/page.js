@@ -1,7 +1,9 @@
-
+ 
 const page = () => {
   return (
-    <div>page</div>
+    <div>
+      <h1>Welcome to GeniusFixer</h1>
+    </div>
   )
 }
 
